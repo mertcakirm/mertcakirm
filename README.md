@@ -47,12 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertcakir&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcakir&layout=compact&theme=radical)  
-
----
-
 ## 🌐 Connect with Me
 - 📧 Email: **mertcakirm3377@gmail.com**  
 - 💼 LinkedIn: [[linkedin.com/in/yourusername](https://linkedin.com/in/yourusername](https://www.linkedin.com/in/mertcakirm/))  
