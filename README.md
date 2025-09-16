@@ -50,7 +50,7 @@
 
 ## 🌐 Connect with Me
 - 📧 Email: **mertcakirm3377@gmail.com**  
-- 💼 LinkedIn: [[linkedin.com/in/mertcakirm](https://linkedin.com/in/yourusername](https://www.linkedin.com/in/mertcakirm/))  
+- 💼 LinkedIn: [[linkedin.com/in/mertcakirm](https://www.linkedin.com/in/mertcakirm/))  
 
 ---
 
