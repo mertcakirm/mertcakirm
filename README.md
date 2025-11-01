@@ -5,9 +5,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔹 I’m a **full-stack developer** experienced in **React, Node.js and ASP.NET Core**  
+- 🔹 I’m a **full-stack developer** experienced in **React, Node.js, ASP.NET Core, Java & Spring Boot**  
 - 🔹 Strong background in **e-commerce applications** (cart, checkout, authentication, admin dashboards)  
 - 🔹 Skilled in working with **MSSQL & MySQL databases**  
+- 🔹 Experienced in building **QR code generation and management systems**  
 - 🔹 Interested in building **scalable architectures** and **clean API designs**  
 - 🔹 Currently diving deeper into **mobile development with Flutter** and **modern cloud-based solutions**  
 
@@ -24,6 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
 </p>
 
 ### Databases & Tools
@@ -45,12 +48,14 @@
 - 🖼️ **GalleryApp**: A gallery management system with image upload, categorization, and user-friendly browsing experience.  
 - 📑 **Document & Quality Management System**: Enterprise-level system for managing documentation, workflows, and quality processes.  
 - ✍️ **Article Platform**: A publishing and collaboration platform for writing, sharing, and managing articles.  
+- 📱 **QR Code App**: Spring Boot backend with React frontend for **generating, storing, and managing QR codes** for businesses.  
 
 ---
 
 ## 🌐 Connect with Me
 - 📧 Email: **mertcakirm3377@gmail.com**  
-- 💼 LinkedIn: [[linkedin.com/in/mertcakirm](https://www.linkedin.com/in/mertcakirm/))  
+- 💼 LinkedIn: [[linkedin.com/in/mertcakirm](https://www.linkedin.com/in/mertcakirm/)]  
+- 🖥️ GitHub: [github.com/mertcakirm](https://github.com/mertcakirm)  
 
 ---
 
