@@ -48,7 +48,7 @@
 - 🖼️ **GalleryApp**: A gallery management system with image upload, categorization, and user-friendly browsing experience.  
 - 📑 **Document & Quality Management System**: Enterprise-level system for managing documentation, workflows, and quality processes.  
 - ✍️ **Article Platform**: A publishing and collaboration platform for writing, sharing, and managing articles.  
-- 📱 **QR Code App**: Spring Boot backend with React frontend for **generating, storing, and managing QR codes** for businesses.  
+- 📱 **QR Code App**: A **multi-tenant menu management and QR code generation system**. Different businesses can **upload their menus**, **manage them online**, and **generate QR codes** for customers to access digitally. Built with **Spring Boot backend and React frontend**.  
 
 ---
 
